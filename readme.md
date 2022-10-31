@@ -1,8 +1,6 @@
 
 <p align="center">
-  <a href="https://github.com/lucky-lore/nextjs-ts-rtl-jest-prettier-boilerplate">
-    <img src="./public/favicon.ico" alt="Logo" width="80" height="80">
-  </a>
+
 
   <h1 align="center">NextJS, Typescript, Apollo, Eslint, Prettier Boilerplate</h1>
 
